@@ -1,0 +1,56 @@
+1 - If a car manufacturer uses the same mechanism of the existing car 
+version while launching a new version with additional features, 
+what is this concept called?
+
+	Inheritance
+
+2 - Which of the following characteristics best describes the singleton pattern?
+
+	Private constructor, private static field with self-reference (the instance), and a static method for accessing the instance
+
+
+3 - What is the difference between “a class” and “an object”?
+
+	The class describes the general state and behavior of all objects of its type, 
+	whereas an object is an actual instance of that class, created at runtime.
+
+
+4 - Which OOP principle describes the following code?
+
+	Delegation
+
+5 - A type which defines only the method signatures, without any implementation, is also known as:
+
+	An interface or All of the above
+
+6 - What statement about an abstract class and an interface is correct?
+
+	The main difference between an interface and an abstract class is that an abstract class can implement part of the object's behavior, 
+	while the interface cannot
+
+7 - Select each correct statement related to Encapsulation:
+
+	It hides the implementation details of an object from other objects
+
+	It must hide the entire object state
+
+	It means that a group of related properties, methods, and other members
+	are treated as a single unit or object
+
+8 - Choose the correct answers
+
+	Overloading = a method has different versions, with a different parameter
+	list
+
+	Overriding = a method has a different implementation in a derived class
+
+9 - Static fields:
+
+	are accessed using the class name
+	have the same value for all objects of that class
+	accessed using an object
+
+10 - Considering the following code, choose the correct answers:
+
+	Each instance of Person can have a different value for retirementAge
+
